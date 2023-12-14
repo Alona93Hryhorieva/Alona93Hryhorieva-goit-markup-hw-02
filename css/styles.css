@@ -30,25 +30,23 @@ body{
  font-weight: 500;
  line-height: 1.5;
  letter-spacing:0.02em ;
- text-decoration:none;
+ text-decoration: none;
 }
 .nav-text:hover,
 .nav-text:focus,
 .nav-text:active{
  color: #404bbf;
- text-decoration:underline;
+ text-decoration: underline;
 }
 .address{
  font-style: normal
 }
-.adress-text{
- font-family: "Roboto";
+.adress-text{;
  font-size: 16px;
- line-height: 1.5px;
+ line-height: 1.5;
  letter-spacing:0.02em;
  text-decoration: none;
  color:#434455 ;
-
 }
 .adress-text:hover,
 .adress-text:focus,
@@ -70,7 +68,7 @@ body{
   cursor:pointer; 
   color: #FFF;  
   background-color:#4D5AE5 ;
- font-family: "Roboto";
+ font-family: "Roboto",sans-serif;
  font-size: 16px;
  font-weight: 500;
  line-height: 1.5;
@@ -152,7 +150,7 @@ color: #434455;
  letter-spacing: 0.02em;
 }
 .footer{
-background-color#2e2f42
+background-color:#2e2f42;
 }
 
 .footer-text {
