@@ -1,0 +1,163 @@
+body{ 
+ font-family:"Roboto","Raleway",sans-serif;
+ font-weight: 400;
+ font-size: 16px;
+ font-style: normal;
+ line-height: 1.5;
+ letter-spacing: 0.02em;
+ color: #434455;
+ background-color:#FFFFFF
+}
+.header {
+ background-color: #FFFFFF;
+}
+.logo{
+ font-family: "Raleway",sans-serif;
+ font-weight: 700;
+ font-size: 18px;
+ line-height: 1.17;
+ letter-spacing: 0.04em;
+ text-transform: uppercase;
+ color: #4D5AE5;
+ 
+}
+.logo-black{
+ color:#2E2F42 
+}
+.nav-text{
+ color:#2E2F42;
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 1.5;
+ letter-spacing:0.04em ;
+ text-decoration:none;
+}
+.nav-text:hover,
+.nav-text:focus,
+.nav-text:active{
+ color: #4D5AE5;
+ text-decoration:underline;
+}
+.adress-text{
+ font-family: "Roboto";
+ font-size: 12px;
+ line-height: 1.33px;
+ letter-spacing:0.04em;
+ text-decoration: none;
+
+}
+.adress-text:hover,
+.adress-text:focus,
+.adress-text:active{
+ color: #4D5AE5;
+ text-decoration: underline;
+}
+.title{
+ background-color:#2E2F42 ;
+}
+.page-title{
+ font-family:"Roboto";
+ font-weight: 700;
+ font-size: 56px;
+ letter-spacing: 0.02em;
+ line-height: 0.93;
+ color:#FFF;
+ text-align: center;
+}
+.page-button{
+  cursor:pointer; 
+  color: #FFF;  
+  background-color:#4D5AE5 ;
+ font-family: Roboto;
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 24px;
+ letter-spacing: 0.64px;
+}
+.page-button:hover,
+.page-button:focus,
+.page-button:active{
+ background-color: #404bbf;
+}
+.section-title{
+ color: #2E2F42;
+ text-align: center;
+ font-family: Roboto;
+ font-size: 36px;
+ font-weight: 700;
+ line-height: 40px;
+ letter-spacing: 0.72px;
+ text-transform: capitalize;
+}
+.perevagu-title{
+ color: #2E2F42;
+ font-family: Roboto;
+ font-size: 20px;
+ font-weight: 500;
+ line-height: 24px;
+ letter-spacing: 0.4px;
+}
+.perevagu-text{
+ font-family: Roboto;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 24px;
+ letter-spacing: 0.32px;
+}
+.comanda-title{
+ color: #2E2F42;
+ text-align: center;
+ font-family: Roboto;
+ font-size: 36px;
+ font-weight: 700;
+ line-height: 40px;
+ letter-spacing: 0.72px;
+ text-transform: capitalize;
+}
+.comanda-name{
+ color:#2E2F42;
+ font-family: Roboto;
+ font-size: 20px;
+ font-weight: 500;
+ line-height: 24px;
+ letter-spacing: 0.4px;
+}
+.comanda-text{
+ font-family: Roboto;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 24px;
+ letter-spacing: 0.32px;
+}
+.portfolio-title{
+ color:#2E2F42;
+ text-align: center;
+ font-family: Roboto;
+ font-size: 36px;
+ font-weight: 700;
+ line-height: 40px;
+ letter-spacing: 0.72px;
+ text-transform: capitalize;
+}
+.portfolio-name{
+ color: #2E2F42;
+ font-family: Roboto;
+ font-size: 20px;
+ font-weight: 500;
+ line-height: 24px;
+ letter-spacing: 0.4px;
+}
+.portfolio-text{
+ font-family: Roboto;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 24px;
+ letter-spacing: 0.32px;
+}
+.footer-text {
+ font-family: Roboto;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 24px;
+ letter-spacing: 0.32px;
+}
